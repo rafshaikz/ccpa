@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 0202-7E01
+
+ Directory of C:\Users\rafshaik\Videos\Selinum_ch
+
+12/01/2020  11:17 AM    <DIR>          .
+12/01/2020  11:17 AM    <DIR>          ..
+12/01/2020  11:17 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  19,183,386,624 bytes free
